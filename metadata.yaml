@@ -1,0 +1,26 @@
+_repo: Notes-on-Agriculture-in-Cyprus-and-Its-Products_32392
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bevan, William
+    birthdate: 1864
+    gutenberg_agent_id: '35821'
+    url: http://www.gutenberg.org/2009/agents/35821
+description: ''
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Agriculture -- Cyprus'
+- !lcsh 'Produce trade -- Cyprus'
+title: Notes on Agriculture in Cyprus and Its Products
+url: http://www.gutenberg.org/ebooks/32392
